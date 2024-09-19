@@ -1,3 +1,14 @@
 * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Titillim web', sans-serif;
 }
+
+header {
+    background-image: url(./img.svg/);
+    background-size: cover;
+    height: 8.375rem;
+
+}
+
